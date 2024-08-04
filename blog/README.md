@@ -40,7 +40,7 @@ tagline: A Front End Developer.
 
 #     link: https://你的自定义链接
 
-footer: Power By Vuepress ❤ VuePress Theme Hope ❤ Zy
+footer: Power By <a href="https://vuepress.vuejs.org/zh/" target="_blank">Vuepress</a> ❤ <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> ❤ Zy
 ---
 <!-- 
 这是一个博客主页的案例。

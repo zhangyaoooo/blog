@@ -13,5 +13,7 @@ sticky: false    # 此页面会在文章列表置顶
 star: false    # 此页面会出现在星标文章中
 # footer: Power By VuePress | VuePress Theme Hope    # 你可以自定义页脚
 # copyright: Zy   # 你可以自定义版权信息
+index: false
+article: false
 ---
 ## 记录一些技术文档
